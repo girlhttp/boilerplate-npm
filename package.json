@@ -6,6 +6,7 @@
   "keywords": ["nodejs", "npm", "freecodecamp", "learning"],
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0"
-  }
+  "express": "^4.14.0",
+  "@freecodecamp/example": "1.1.0"
+}
 } 
