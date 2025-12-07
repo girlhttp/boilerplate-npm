@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "version": "1.0.0",
   "author": "girl http",
+  "description": "A small project to learn npm package.json basics",
   "dependencies": {
     "express": "^4.14.0"
   }
