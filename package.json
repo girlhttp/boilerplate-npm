@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "girl http",
   "description": "A small project to learn npm package.json basics",
+    "keywords": ["nodejs", "npm", "freecodecamp", "learning"],
   "dependencies": {
     "express": "^4.14.0"
   }
